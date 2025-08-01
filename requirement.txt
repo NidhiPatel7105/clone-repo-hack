@@ -8,3 +8,4 @@ faiss-cpu
 requests
 python-dotenv
 gunicorn
+python-multipart
